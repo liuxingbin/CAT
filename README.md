@@ -23,7 +23,7 @@ Different knowledge is mastered by models trained by different methods.
 
 
 ## Results
-The comparison of CAT with SOTA. Please refer to our paper for more details.
+The comparison of CAT with SOTA. Please refer to our paper for more details. The models' weight can be found in [here](https://drive.google.com/drive/folders/1Zy0ua0nTp8s-xjS93tzUYeQ_qgDk54Rz?usp=sharing).
 
 <p align="center">
   <img src=".github/result.png" width = "60%">
